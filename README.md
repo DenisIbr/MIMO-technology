@@ -6,5 +6,5 @@
 			<tr><td align="center" bgcolor="#FABDC5">EPSK.m</td><td align="center" bgcolor="#F8E88D">Формирует 8-PSK сигнал</td>
 			<tr><td align="center" bgcolor="#FABDC5">i16QAM</td><td align="center" bgcolor="#F8E88D">Формирует 16-QAM 				сигнал</td>
 			<tr><td align="center" bgcolor="#FABDC5">OFDM_Signal.m</td><td align="center"bgcolor="#F8E88D">Формирует OFDM сигнал 			     (Тип манипуляции для поднесущих: QPSK)</td>
-			<tr><td align="center" bgcolor="#FABDC5">Phase_constellations.slx</td><td align="center" bgcolor="#F8E88D">Фазовые 			   созвездия QPSK, BPSK, 8-PSK и 16-QAM)</td>
+			<tr><td align="center" bgcolor="#FABDC5">Phase_constellations.slx</td><td align="center" bgcolor="#F8E88D">Фазовые 			   созвездия (QPSK, BPSK, 8-PSK и 16-QAM)</td>
 </table>
